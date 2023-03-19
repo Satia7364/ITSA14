@@ -19,3 +19,4 @@ Sample Output:
 YES
 YES
 NO
+-------------------------
