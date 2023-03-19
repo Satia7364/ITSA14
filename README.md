@@ -14,3 +14,10 @@ Sample Input:                    Sample Output:
 123321                           YES
 1556551                          YES
 1244221                          NO
+
+
+
+Sample Output:
+YES
+YES
+NO
