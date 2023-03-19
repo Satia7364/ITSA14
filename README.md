@@ -10,13 +10,11 @@
 迴文印出 ” 是 ” ；非回文印出 ” 否 ” 。
 範例：
 
-Sample Input:                    Sample Output:
-123321                           YES
-1556551                          YES
-1244221                          NO
-
-
-
+Sample Input:
+123321
+1556551 
+1244221 
+-------------------------
 Sample Output:
 YES
 YES
